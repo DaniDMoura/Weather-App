@@ -3,7 +3,9 @@
 ## Overview
 Weather App is a modern, intuitive application that provides real-time weather information and forecasts. Designed with user experience in mind, it offers accurate weather data in a clean, easy-to-navigate interface.
 
-<div style="text-align:center;"><img src="images/image.png"></div>
+<p align="center">
+  <img src="images/image.png">
+</p>
 
 ## Features
 - Current weather conditions
